@@ -1,7 +1,7 @@
 # Hi, I'm Hatoon Hmouz 👋
 
 **Computer Science Student @ Birzeit University** | Aspiring Software Engineer  
-📍 Palestine &nbsp;|&nbsp; 🎓 Class of 2028 &nbsp;|&nbsp; 💼 Open to internships
+📍 Jerusalem - Palestine &nbsp;|&nbsp; 🎓 Class of 2028 &nbsp;|&nbsp; 💼 Open to internships
 
 ---
 
