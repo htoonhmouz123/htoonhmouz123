@@ -18,13 +18,14 @@ I am currently seeking internship opportunities in software development where I 
             Teamwork
             Communication
             Leadership
+            Marketing & Community Work
             
-Marketing & Community Work
 🌍 LANGUAGES
-Arabic (Native or Bilingual)
-English (Professional Working)
-French (Elementary)
-Hebrew (Elementary)
+        Arabic (Native or Bilingual)
+        English (Professional Working)
+        French (Elementary)
+        Hebrew (Elementary)
+        
 🏢 EXPERIENCE
 CodeHER Palestine
 
@@ -35,6 +36,7 @@ Contribute to marketing and community initiatives
 Participate in teamwork and coordination activities
 Support events and organizational tasks
 Develop communication and collaboration skills
+
 🎓 EDUCATION
 Birzeit University
 
