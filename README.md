@@ -47,6 +47,7 @@ I am currently seeking **internship opportunities in software development** wher
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
+- DataBase
 - Operating Systems concepts
 - Improving problem-solving skills
 
