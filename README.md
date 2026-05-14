@@ -69,7 +69,12 @@ I am currently seeking **internship opportunities in software development** wher
 
 ## 📜 Certifications
 
-- Canva for Beginners — Center for Initiative and Business Development, Nexus Tech Community
+| Certificate | Issuer |
+|-------------|--------|
+| Canva for Beginners | Simplilearn |
+| Problem Solving Course | Computer Science Club |
+| CV & LinkedIn Workshop | Knowledge Academy |
+| Fundamentals of C Programming | Nexus Tech Community |
 
 ---
 
