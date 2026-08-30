@@ -81,7 +81,7 @@ I am currently seeking **internship opportunities in software development** wher
 
 ## 🌍 Languages
 
-🇸🇦 Arabic (Native) &nbsp;|&nbsp; 🇬🇧 English (Professional) &nbsp;|&nbsp; 🇫🇷 French (Elementary) &nbsp;|&nbsp; 🇮🇱 Hebrew (Elementary)
+Arabic (Native) &nbsp;|&nbsp; English (Professional) &nbsp;|&nbsp; French (Elementary) &nbsp;|&nbsp; Hebrew (Elementary)
 
 ---
 
